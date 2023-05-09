@@ -1,7 +1,10 @@
 @media screen and (max-width:900px) {
     .Body{
-        height: 1100px;
+        height: 700px;
         width: 70%;
+    }
+    .Head{
+        height: 700px;
     }
     
 }
